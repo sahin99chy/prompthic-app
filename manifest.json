@@ -1,0 +1,17 @@
+{
+  "name": "Prompthic",
+  "short_name": "Prompthic",
+  "description": "Discover and access top-quality AI prompts for free",
+  "start_url": "/prompthic-app/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6366f1",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+} 
